@@ -4,7 +4,7 @@ En este repositorio se encuentra el código para obtener el área y perímetro d
 
 ---
 
-Las interfaces en la prgramación orientada a objetos son un conjunto se requisitos par las clases que requieren ajustarse a la forma de la interface. (conjunto de reglas para poder utilizar el ojeto).
+Las interfaces en la programación orientada a objetos son un conjunto se requisitos para las clases que requieren ajustarse a la forma de la interface. (conjunto de reglas para poder utilizar el objeto).
 
 ---
 
